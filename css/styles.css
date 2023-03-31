@@ -39,7 +39,7 @@ body{
     .bi-journal-text{
         width: 26px;
         height: 26px;
-        margin-left: 14px;
+        margin-left: 6px;
     }
     .font{
         clear: both;
@@ -157,7 +157,7 @@ body{
         margin-top: 34px;
     }
     .search-bar{
-        width: 60%;
+        width: 64%;
         margin: 0 auto;
     }
     #txt, #btnSearch{
