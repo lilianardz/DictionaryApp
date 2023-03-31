@@ -52,6 +52,9 @@ body{
         border: none;
     }
     /* dropdown font */
+    div.dropdown{
+        z-index: 1;
+    }
     span.dropdown{
         font-family: poppinsregular;
         font-size: 14px;
@@ -98,6 +101,7 @@ body{
     .dropdown {
         position: relative;
         display: inline-block;
+        z-index: 1;
     }
 
     .dropdown-content {
@@ -207,7 +211,7 @@ body{
     /*Container*/
     .word{
         margin: 0 auto;
-        width: 60%;
+        width: 64%;
     }
     #word {
         font-size: 54px;
