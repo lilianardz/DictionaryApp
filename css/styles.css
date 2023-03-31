@@ -157,8 +157,9 @@ body{
         margin-top: 34px;
     }
     .search-bar{
-        width: 64%;
+        width: 74%;
         margin: 0 auto;
+        margin-left: 60px;
     }
     #txt, #btnSearch{
         display: inline-block;
