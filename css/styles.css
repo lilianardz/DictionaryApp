@@ -384,7 +384,7 @@ body{
     /*serif, sans serif y monospace */
     .fontSerif {
         font-family: "Times New Roman";
-        font-size: 19px;
+        font-size: 20px;
     }
 
     .fontSans {
@@ -396,7 +396,6 @@ body{
         font-family: monospace;
         font-size: 18px;
     }
-
     svg.icon-moon {
         width: 24px;
         height: 24px;
